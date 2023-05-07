@@ -2,9 +2,9 @@
 
 * [Sito Web Documentazione multilingue](https://github.com/xxai-doc)
 
-Il codice front-end del sito Web è open source, benvenuto per aiutare a ottimizzare la traduzione
+Il codice frontend del sito Web è open source, benvenuto per aiutare a ottimizzare la traduzione
 
-* [codice di front-end](https://github.com/xxai-art/web)
+* [Codice front-end](https://github.com/xxai-art/web)
 * [Language pack per il sito nel suo complesso](https://github.com/xxai-art/web/tree/main/i18n)
 * [Language pack per i moduli di accesso](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Sito Web Documentazione multilingue](https://github.com/xxai-doc)
