@@ -2,13 +2,13 @@
 
 [@ w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , aggiungi alcune funzionalità sulla base della sintassi coffeescript, vedi [coffee_plus](./coffee_plus.md) .
 
-* dichiara variabile
+## dichiara variabile
 
 ```
 + var1, var2
 ```
 
-* etichetta di dichiarazione
+## etichetta di dichiarazione
 
 `:$` è da usare con [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* importazione rapida
+## importazione rapida
 
 ```
 > zx/globals:
